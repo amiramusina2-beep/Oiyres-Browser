@@ -16,7 +16,7 @@
 ## 🛠️ Установка и использование
 
 ### Вариант 1: Запуск готового файла (Windows)
-1. Перейдите в раздел [Релизы (Releases)](https://github.com).
+1. Перейдите в раздел [Релизы (Releases)](https://github.com/amiramusina2-beep/Oiyres-Browser/releases).
 2. Скачайте файл `OiyresCyberBrowser.exe`.
 3. Запустите исполняемый файл.
 
