@@ -23,8 +23,8 @@
 ### Вариант 2: Запуск из исходного кода
 ```bash
 # Клонирование репозитория
-git clone https://github.com
-cd Oiyres-CyberBrowser
+git clone https://github.com/amiramusina2-beep/Oiyres-Browser.git
+cd Oiyres-Browser
 
 # Установка зависимостей
 pip install PyQt6 PyQt6-WebEngine
