@@ -32,3 +32,14 @@ pip install PyQt6 PyQt6-WebEngine
 # Запуск приложения
 python oiyres_browser.py
 ```
+
+💻 Tech Stack
+Language: Python 3.x
+
+GUI Framework: PyQt6
+
+Web Engine: PyQt6-WebEngine (Chromium Core)
+
+Packager: PyInstaller
+
+© 2026 Oiyres Inc. All rights reserved.
